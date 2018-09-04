@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1536044235 source:c:\users\admin\desktop\ficticia\tp1 - calculadora\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	<math.h>
+
+1536007074 c:\users\admin\desktop\ficticia\tp1 - calculadora\utn.h
+
+1536044352 source:c:\users\admin\desktop\ficticia\tp1 - calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	<math.h>
+
